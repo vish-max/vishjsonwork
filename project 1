@@ -1,0 +1,67 @@
+[{
+		"description": "CEO",
+		"mode": "REQUIRED",
+		"name": "VISHESH",
+		"type": "STRING"
+	},
+	{
+		"description": "PERSONAL ASSISTANT",
+		"mode": "REQUIRED",
+		"name": "SELENA GOMEZ",
+		"type": "STRING"
+	},
+	{
+		"description": "MANAGING DIRECTOR",
+		"mode": "REQUIRED",
+		"name": "ASHWANI",
+		"type": "STRING"
+	},
+	{
+		"description": "MARKETING MANGER",
+		"mode": "REQUIRED",
+		"name": "RAKESH",
+		"type": "STRING"
+	},
+	{
+		"description": "SOCIAL MEDIA ",
+		"mode": "REQUIRED",
+		"name": "KAUSTUBH",
+		"type": "STRING"
+	},
+	{
+		"description": "STAFF MANAGER",
+		"mode": "REQUIRED",
+		"name": "RUNJHUN",
+		"type": "STRING"
+	},
+	{
+		"description": "WEB DEVELOPER",
+		"mode": "REQUIRED",
+		"name": "SARANSH",
+		"type": "STRING"
+	},
+	{
+		"description": "DESIGNER",
+		"mode": "REQUIRED",
+		"name": "PREETI",
+		"type": "STRING"
+	},
+	{
+		"description": "APP DEVELOPER",
+		"mode": "REQUIRED",
+		"name": "RITIK",
+		"type": "STRING"
+	},
+	{
+		"description": "ACCOUNT MANAGER",
+		"mode": "REQUIRED",
+		"name": "PRANJAL",
+		"type": "STRING"
+	},
+	{
+		"description": "TURN OVER PER YEAR",
+		"mode": "REQUIRED",
+		"name": "USD",
+		"type": "INTEGER"
+	}
+]
